@@ -1,6 +1,4 @@
-# nlp-task-social-media-research
-Course related: CMU 95-851 Making Products Count: Data Science for Product Managers .  
-[course website](https://api.heinz.cmu.edu/courses_api/course_detail/95-851) . 
+# nlp-task-social-media-research 
 :speech_balloon: NLP task for social media research on Samsung Galaxy S8 vs. iPhone 8, iPhone X from Twitter and non-Twitter data.
 
 [View the report](https://github.com/surancy/nlp-task-social-media-research/blob/master/report.pdf)
